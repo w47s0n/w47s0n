@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on Game open source project
-- 📫 How to reach me W47s000n@gmail.com
+- 📫 How to reach me ping@w47s0n.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
